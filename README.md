@@ -67,11 +67,89 @@ The goal is to demonstrate both technical proficiency and collaborative practice
   - Share ideas, ask and answer questions.  
   - Sync with frontend learners to align API endpoints with their needs.  
   - Stay updated with announcements.  
+  
 
 ---
 
-## Repo Details
-- **Repository Name:** `alx-project-nexus`  
-- **File:** `README.md`  
+# Project Nexus - ProDev Backend Engineering
+
+## Overview
+Project Nexus is a curated collection of five advanced backend projects showcasing my expertise in Python, Django, REST APIs, GraphQL, PostgreSQL, Redis, and industry best practices. This repository demonstrates my ability to design scalable, secure, and optimized backend systems, reflecting my readiness for professional backend development roles.
 
 ---
+
+## Projects
+
+### 1. E-Commerce Backend
+**Goal:** Build a scalable backend for product and category management with efficient APIs.  
+**Technologies:** Django, PostgreSQL, JWT, Swagger  
+**Key Features:**
+- CRUD operations for products, categories, and users
+- Filtering, sorting, and pagination
+- Database optimization and indexing
+- API documentation using Swagger
+
+---
+
+### 2. Social Media Feed Backend
+**Goal:** Develop a social media feed backend supporting posts, interactions, and flexible querying.  
+**Technologies:** Django, PostgreSQL, GraphQL (Graphene)  
+**Key Features:**
+- GraphQL APIs for posts, comments, and interactions
+- Real-time tracking of likes, shares, and comments
+- GraphQL Playground for testing and documentation
+- Optimized database queries for high-volume interactions
+
+---
+
+### 3. Movie Recommendation Backend
+**Goal:** Build a backend for movie recommendations with caching and user personalization.  
+**Technologies:** Django, PostgreSQL, Redis, Swagger  
+**Key Features:**
+- Integration with third-party movie API (TMDb)
+- JWT-based user authentication
+- Favorite movies storage for users
+- Redis caching to improve API performance
+- API documentation with Swagger
+
+---
+
+### 4. Job Board Backend
+**Goal:** Create a backend for job postings with role-based access control.  
+**Technologies:** Django, PostgreSQL, JWT, Swagger  
+**Key Features:**
+- CRUD APIs for jobs and categories
+- Role-based authentication (admin vs user)
+- Optimized job search with indexed queries
+- Location and category-based filtering
+- Swagger documentation for frontend integration
+
+---
+
+### 5. Online Poll System Backend
+**Goal:** Develop a backend for online polls with real-time voting and result computation.  
+**Technologies:** Django, PostgreSQL, Swagger  
+**Key Features:**
+- Poll creation with multiple options
+- Voting system with duplicate vote prevention
+- Real-time computation of poll results
+- API documentation hosted via Swagger
+
+---
+
+## Key Learnings
+- Backend development with **Python & Django**
+- REST and GraphQL API design principles
+- **Authentication best practices** with JWT
+- Caching strategies with **Redis**
+- Optimized database design & indexing for scalability
+- API documentation using **Swagger** and GraphQL Playground
+- Professional **version control workflows** with Git
+- Problem-solving and independent debugging in real-world scenarios
+
+---
+
+## Collaboration & Resources
+- **Collaboration:** Engaged with fellow ProDev learners via Discord (#ProDevProjectNexus) for brainstorming, code review, and troubleshooting
+- **Resources:** Leveraged official documentation, tutorials, and self-directed problem-solving strategies
+- **Professional Approach:** Emphasized clean, modular code and adherence to best practices throughout all projects
